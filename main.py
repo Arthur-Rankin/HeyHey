@@ -74,13 +74,45 @@
 
 # print(dictionary['a'])
 
-is_old = True
-is_licenced = True
+# is_old = bool('hello')
+# is_licenced = bool(5)
+
+# print(is_old)
 
 
-if is_old and is_licenced:
-  print('you are old enough to drive and you have a license. You\'re good to go!')
-else:
-  print('you can\'t drive')
 
-print('okoko')
+
+# if is_old and is_licenced:
+#   print('you are old enough to drive and you have a license. You\'re good to go!')
+# else:
+#   print('you can\'t drive')
+
+# print('okoko')
+
+
+#Ternary Operater
+
+# is_Friend = True
+# is_User = False
+
+# if is_Friend == is_User: 
+#   print('best friend')
+# else: 
+#   print('nah bruv')
+
+is_magician = False
+is_expert = True
+
+#check if is_magician and exepert: print('you are a master magician')
+
+#check if magician but not expert: at least you're getting there"
+
+#if your nont a magician: 'you need magic powers
+
+if is_expert and is_magician: 
+  print('you are a master magician')
+elif is_magician and not is_expert: 
+  print('at least you\'re getting there')
+elif not is_magician:
+  print('you need magic powers')
+
