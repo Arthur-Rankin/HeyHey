@@ -12,7 +12,7 @@
 
 # print(20 - 3 * 4)
 
-# # variables 
+# # variables
 # iq = 190
 # print(iq)
 # user_iq = 190
@@ -46,7 +46,6 @@
 # current_year = datetime.datetime.now().year
 # users_age = current_year - int(birth_year)
 
-
 # print(f'you are {users_age} years old')
 
 # lists
@@ -61,3 +60,27 @@
 # ]
 
 # print(matrix[0][2:3])
+
+#adding
+# new_list = basket.extend([100, 101])
+# print(basket)
+# print(new_list)
+
+#removing
+# basket.remove(4)
+# print(basket
+
+# dictionary = {"a": 1, 'b': 2}
+
+# print(dictionary['a'])
+
+is_old = True
+is_licenced = True
+
+
+if is_old and is_licenced:
+  print('you are old enough to drive and you have a license. You\'re good to go!')
+else:
+  print('you can\'t drive')
+
+print('okoko')
