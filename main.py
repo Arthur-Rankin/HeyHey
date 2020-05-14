@@ -50,6 +50,14 @@
 # print(f'you are {users_age} years old')
 
 # lists
-li = [1,2,3,4,5]
-li2 = ['a', 'b', 'c']
-li3 = [1,2,'a', True]
+# li = [1,2,3,4,5]
+# li2 = ['a', 'b', 'c']
+# li3 = [1,2,'a', True]
+
+#matrix's
+# matrix = [
+#   [1,3,54,0],
+#   [3,4,1,6,],
+# ]
+
+# print(matrix[0][2:3])
